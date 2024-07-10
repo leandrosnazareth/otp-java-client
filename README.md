@@ -1,5 +1,7 @@
 ## OTP GraphQL API Java Client
 
+http://dev.opentripplanner.org/
+
 This library provides an easy way to access OTP's GTFS GraphQL API with Java.
 
 ### OTP version compatibility
